@@ -2,23 +2,82 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>PjTidresMoment</title>
-<link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PjTidres</title>
+
+<style>
+
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#faf3e8;
+  text-align:center;
+}
+
+.hero{
+  padding:100px 20px;
+}
+
+.hero h1{
+  font-size:50px;
+  color:#c4500a;
+}
+
+.hero p{
+  color:#8a5c3a;
+}
+
+.gallery{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+  gap:15px;
+  padding:40px;
+  max-width:900px;
+  margin:auto;
+}
+
+.gallery img{
+  width:100%;
+  border-radius:10px;
+  object-fit:cover;
+  transition:0.3s;
+}
+
+.gallery img:hover{
+  transform:scale(1.05);
+}
+
+footer{
+  padding:40px;
+  color:#8a5c3a;
+}
+
+</style>
 </head>
 
 <body>
 
-<div class="container">
+<div class="hero">
+<h1>Pedro J. & Melissa T.</h1>
+<p>desde 20 de setembro de 2025</p>
+</div>
 
-<h1></h1>
+<h2>Nossas fotos</h2>
 
-<p class="mensagem"></p>
+<div class="gallery">
 
-<img src="" class="foto">
-
-<button></button>
+<img src="foto1.jpg">
+<img src="foto2.jpg">
+<img src="foto3.jpg">
+<img src="foto4.jpg">
+<img src="foto5.jpg">
+<img src="foto6.jpg">
 
 </div>
+
+<footer>
+PJ & Tidres
+</footer>
 
 </body>
 </html>
