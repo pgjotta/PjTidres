@@ -358,7 +358,7 @@
 <div class="hero" id="hero">
   <p class="hero-badge">✦ O começo de algo sem fim. ✦</p>
   <h1>Pedro J. <span>&amp;</span><br>Melissa T.</h1>
-  <p class="hero-sub">desde 04 de janeiro de 2026</p>
+  <p class="hero-sub">desde 20 de setembro de 2025</p>
   <div style="width:40px;height:2px;background:var(--primary);margin:1.6rem auto;border-radius:2px;opacity:.4;"></div>
   <p class="scroll-hint">↓ role para baixo ↓</p>
 </div>
@@ -393,13 +393,13 @@
   <h2>Como começou</h2>
   <div class="story-card">
     <p>
-      Foi em 2025 que eu conheci a minha beybae, a mais estilosa, a mais linda e mais prft q tudo q eu ja presenciei e que eu nao presenciei
+      Foi em 2025 que eu conheci a minha beybae, a mais swag ja vista, a mais linda e mais prft q tudo q eu ja presenciei e que eu nao presenciei
     </p>
     <p>
-      O gasola comentou q uma "garota japinha" gostou de mim e ia me "abocanhar" entao a gente começou a nossa historia meio conturbada...
+      Eu vou ficar com você nos momentos ruins, bons, vamos rir e chorar juntos e vamos viver muita coisa que você nem imagina ainda...
     </p>
     <p>
-      Me arrependo do meu passado sobre o que eu fiz, mas eu sou o cara mais feliz que eu poderia ser em toda minha vida.
+      Eu sou o cara mais feliz que eu poderia ser em toda minha vida.
       Vai ser daqui, pra sempre. 
       Eu te amo Melissa.                                                                                                  <p>-Pedro J.</p>            
     </p>
@@ -411,7 +411,7 @@
 
 <!-- GALERIA -->
 <section id="fotos">
-  <span class="section-tag">Nossas fotancias</span>
+  <span class="section-tag">Casal Mais Swag possível.</span>
   <h2>Nossas recordações juntos </h2>
   <div class="gallery-grid" id="gallery">
     <!-- slots gerados por JS -->
@@ -443,7 +443,7 @@
 
 <!-- FOOTER -->
 <footer>
-  Feito por mim Pedro Jorge, 1% do que eu faria por você &nbsp;·&nbsp; PJ &amp; Tidres
+  Feito por mim, 1% do que eu faria por você &nbsp;·&nbsp; PJ &amp; Tidres
 </footer>
 
 <!-- MUSICA PLAYER -->
