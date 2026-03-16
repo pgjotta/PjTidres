@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Autista e Gulosa</title>
+  <title>PjTidres</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Quicksand:wght@400;500;600&display=swap" rel="stylesheet"/>
   <style>
     :root {
@@ -162,7 +162,7 @@
       margin-bottom: 1.4rem;
     }
 
-    /* ── HISTÓRIA ── */
+    /* ── US ── */
     .story-card {
       background: var(--card);
       border-radius: 1.5rem;
@@ -365,7 +365,7 @@
 
 <!-- CONTADOR -->
 <div class="counter-section" id="contador">
-  <h2>juntos há...</h2>
+  <h2>Together for...</h2>
   <div class="counter-grid">
     <div class="counter-box">
       <div class="counter-num" id="cnt-dias">0</div>
@@ -384,22 +384,24 @@
       <div class="counter-label">segundos</div>
     </div>
   </div>
-  <p class="counter-date">04 de Janeiro de 2026</p>
+  <p class="counter-date">20 de setembro de 2025</p>
 </div>
 
 <!-- HISTÓRIA -->
 <section id="historia">
-  <span class="section-tag">nossa história</span>
+  <span class="section-tag">Nossa história</span>
   <h2>Como começou</h2>
   <div class="story-card">
     <p>
-      Foi em 2024 que eu conheci o amor da minha vida, a maldita da Lara Nayumi que eu nem sequer gostava na época
+      Foi em 2025 que eu conheci a minha beybae, a mais estilosa, a mais linda e mais prft q tudo q eu ja presenciei e que eu nao presenciei
     </p>
     <p>
-      Depois de 1 ano inteiro sem troca uma palavra, foi no beto carreiro que voltamos a nos falar, como amigos
+      O gasola comentou q uma "garota japinha" gostou de mim e ia me "abocanhar" entao a gente começou a nossa historia meio conturbada...
     </p>
     <p>
-      e então no dia 4 de janeiro de 2026 nos assumimos (no pv rs)                            <p>-Miguel</p>            
+      Me arrependo do meu passado sobre o que eu fiz, mas eu sou o cara mais feliz que eu poderia ser em toda minha vida.
+      Vai ser daqui, pra sempre. 
+      Eu te amo Melissa.                                                                                                  <p>-Pedro J.</p>            
     </p>
     <p style="font-style:italic; opacity:.7; font-size:.9rem; margin-top:1.4rem;">
     
@@ -409,8 +411,8 @@
 
 <!-- GALERIA -->
 <section id="fotos">
-  <span class="section-tag">nossas fotos</span>
-  <h2>Memórias dos autistinhas </h2>
+  <span class="section-tag">Nossas fotancias</span>
+  <h2>Nossas recordações juntos </h2>
   <div class="gallery-grid" id="gallery">
     <!-- slots gerados por JS -->
   </div>
@@ -441,18 +443,18 @@
 
 <!-- FOOTER -->
 <footer>
-  Feito por Miguel, só para a gente &nbsp;·&nbsp; Miguel &amp; Lara
+  Feito por mim Pedro Jorge, 1% do que eu faria por você &nbsp;·&nbsp; PJ &amp; Tidres
 </footer>
 
 <!-- MUSICA PLAYER -->
 <div class="music-bar" id="musicBar">
   <div class="music-label">
-    <div class="music-title">Medo Bobo — Rubel</div>
-    <div class="music-sub">nossa música ♫</div>
+    <div class="music-title">Feelz -Lil peep</div>
+    <div class="music-sub">A musica que descreve nosso amor ♫</div>
   </div>
   <iframe
     id="yt-iframe"
-    src="https://www.youtube.com/embed/5tiY3VZn200?start=63&end=105&loop=1&playlist=5tiY3VZn200&rel=0&autoplay=0"
+    src="https://www.youtube.com/watch?v=4ncAL0RRy8k&list=RD4ncAL0RRy8k&start_radio=1"
     allow="autoplay; encrypted-media"
     allowfullscreen
     frameborder="0"
@@ -462,7 +464,7 @@
 
 <script>
   /* ── Counter ── */
-  const startDate = new Date('2026-01-04T00:00:00');
+  const startDate = new Date('2025-09-20T00:00:00');
   function updateCounter() {
     const now  = new Date();
     const diff = now - startDate;
