@@ -356,8 +356,8 @@
 
 <!-- HERO -->
 <div class="hero" id="hero">
-  <p class="hero-badge">✦ nosso quartinho para especiais ✦</p>
-  <h1>Miguel <span>&amp;</span><br>Lara</h1>
+  <p class="hero-badge">✦ O começo de algo sem fim. ✦</p>
+  <h1>Pedro J. <span>&amp;</span><br>Melissa T.</h1>
   <p class="hero-sub">desde 04 de janeiro de 2026</p>
   <div style="width:40px;height:2px;background:var(--primary);margin:1.6rem auto;border-radius:2px;opacity:.4;"></div>
   <p class="scroll-hint">↓ role para baixo ↓</p>
@@ -423,8 +423,8 @@
 
 <!-- CARTA -->
 <section id="carta">
-  <span class="section-tag">carta de Nayumi</span>
-  <h2>Palavras de Nayumi</h2>
+  <span class="section-tag">Textinho da Melissa</span>
+  <h2>Melissa</h2>
   <div class="carta-wrap">
     <p>Meu amor,</p>
     <p>
@@ -434,7 +434,7 @@
     <p>
       Te amo hoje, amanhã e sempre. 
     </p>
-    <div class="carta-assinatura">— com amor, Nayumi </div>
+    <div class="carta-assinatura">— com amor, Melissa T. </div>
     <p style="font-style:italic; opacity:.5; font-size:.8rem; margin-top:1.2rem;">
     
     </p>
