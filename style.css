@@ -1,13 +1,41 @@
-body {
+body{
+    background: linear-gradient(135deg,#ff7aa2,#ffb6c1);
     font-family: Arial, sans-serif;
-    background-color: #e6e6fa; /* Light purple background */
-    margin: 20px;
+    text-align:center;
+    margin:0;
 }
-h1 {
-    color: #800080; /* Purple text */
-    text-align: center;
+
+.container{
+    margin-top:100px;
 }
-p {
-    font-size: 1.1em;
-    line-height: 1.5;
+
+h1{
+    color:white;
+    font-size:50px;
+}
+
+.mensagem{
+    color:white;
+    font-size:22px;
+    margin:20px;
+}
+
+.foto{
+    width:250px;
+    border-radius:20px;
+    margin:20px;
+}
+
+button{
+    padding:15px 25px;
+    font-size:18px;
+    border:none;
+    border-radius:10px;
+    background:white;
+    color:#ff4d73;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#ffe3ea;
 }
