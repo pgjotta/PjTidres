@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6e6fa; /* Light purple background */
+    margin: 20px;
+}
+h1 {
+    color: #800080; /* Purple text */
+    text-align: center;
+}
+p {
+    font-size: 1.1em;
+    line-height: 1.5;
+}
